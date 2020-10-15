@@ -31,6 +31,9 @@
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<img align="left" height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw0lY6GQq3qeQkeJpcs_1SLt&ust=1602864256001000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJipxen8tuwCFQAAAAAdAAAAABAD" />
+
+
 <!--
 **LuizAlencar17/LuizAlencar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
