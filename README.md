@@ -30,9 +30,10 @@
 <a href="https://www.instagram.com/lluizfab/?hl=pt-br" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br />
 
 ### Let's go!!
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
+<img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e477d3ux1duuixq9hssjy71p7rif0fowpb2qw3nowbw&rid=giphy.gif"/>
 
 <!--
 **LuizAlencar17/LuizAlencar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
