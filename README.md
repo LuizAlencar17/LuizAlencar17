@@ -1,5 +1,5 @@
 ### Heeello World 👽🚀
-- 💻 Degree in computingo - 7th Period 
+- 💻 Degree in computing - 7th Period 
 - ❤ Game developer
 - ❤ Fullstack developer
 - 🚀 Let's goooo together!
