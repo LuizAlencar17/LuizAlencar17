@@ -4,6 +4,8 @@
 - 💫 Fullstack developer
 - 🚀 Let's goooo together!
 
+Email: lfba.lic17@uea.edu.br
+
 ### Skills
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
