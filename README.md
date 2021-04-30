@@ -1,6 +1,7 @@
 ### Heeello World 👽🚀
 - 💻 Computer Studant - 8th Period 
 - 🎮 Game developer
+- 🤓 Deep Learning Enthusiast
 - 💫 Fullstack developer
 - 🚀 Let's goooo together!
 
