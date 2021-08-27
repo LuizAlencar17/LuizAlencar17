@@ -1,8 +1,7 @@
 ### Heeello World 👽🚀
-- 💻 Computer Studant - 8th Period 
-- 🎮 Game developer
+- 💻 Master's student at UFAM
+- 💻 Graduated in Degree in Computing at UEA
 - 🤓 Deep Learning Enthusiast
-- 💫 Fullstack developer
 - 🚀 Let's goooo together!
 
 Email: lfba.lic17@uea.edu.br
