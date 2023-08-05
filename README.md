@@ -4,7 +4,7 @@
 - 🤓 Deep Learning Enthusiast
 - 🚀 Let's goooo together!
 
-Email: lfba.lic17@uea.edu.br
+Email: fabio.alencar644@gmail.com
 
 ### Skills
 
