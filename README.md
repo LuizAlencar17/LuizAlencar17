@@ -1,5 +1,6 @@
 ### Heeello World 👽🚀
-- 💻 Master's student at UFAM
+- 💻 PhD's student at UFAM
+- 💻 Master in Computing at UFAM
 - 💻 Graduated in Degree in Computing at UEA
 - 🤓 Deep Learning Enthusiast
 - 🚀 Let's goooo together!
