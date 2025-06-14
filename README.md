@@ -1,51 +1,53 @@
-### Heeello World 👋
+### Heeello World 👋🌍
 
-I'm **Luiz Alencar**, a Software Engineer with a passion for crafting scalable and dependable software solutions using Python, JavaScript, AWS services, and machine learning. I'm recognized for my adeptness in constructing data processing pipelines, computer vision models, and advanced machine learning algorithms.
+I'm **Luiz Alencar**, a 💻 **Software Engineer** with a passion for crafting scalable and dependable software solutions using **Python** 🐍, **JavaScript** ✨, **AWS services** ☁️, and **machine learning** 🤖.
+I'm recognized for my adeptness in constructing **data processing pipelines** 🔄, **computer vision models** 👁️, and advanced **ML algorithms** 🧠.
 
-Currently, I'm a PhD's student at UFAM, holding a Master's in Computing from UFAM, and a degree in Computing from UEA. I'm a Deep Learning Enthusiast, always eager to learn and grow! Let's goooo together!
-
----
-
-### About Me
-
-* **Software Engineer** specializing in Python, AWS, and Machine Learning.
-* **MSc** in Computer Vision from Universidade Federal do Amazonas (August 2021 - February 2024).
-* **PhD Candidate** in Computer Vision from Universidade Federal do Amazonas (March 2024 - Present).
-* Based in Manaus, Amazonas, Brazil.
-* Experienced in developing modules and services for processing time series and financial market asset metrics at BTG Pactual.
-* Contributed to an innovative AI system utilizing drones to identify foreign objects (waste) in Amazon Rivers, aiming for environmental preservation.
+Currently, I'm a 🧑‍🎓 **PhD student at UFAM**, holding a 🧑‍🔬 **Master's in Computing** and a 🎓 **degree in Computing from UEA**.
+I'm a Deep Learning Enthusiast 💡, always eager to learn 📚 and grow 🚀! Let's goooo together! 💥
 
 ---
 
-### Skills
+### 🔍 About Me
 
-Here's a snapshot of my technical toolkit:
-
-* **Programming Languages**: Python (NumPy, Scikit-learn, TensorFlow, Keras, Pandas, Boto3, OpenCV), JavaScript, HTML, CSS, C#
-* **Cloud Platforms & Services**: AWS (DynamoDB, SQS, SNS, Lambda, S3, CloudWatch, AppSync, API Gateway, CloudFormation), Huawei Cloud
-* **Machine Learning**: Classification, Regression, Clustering, Recommendation, Computer Vision
-* **Tools & Technologies**: Git, Jenkins, Node.js, Vue, Wordpress, Unity, SQL, PHP, REST APIs
-* **Methodologies**: Agile Methodologies
-* **Data**: Strong grasp of data structures
+* 🧑‍💻 **Software Engineer** specializing in Python, AWS, and Machine Learning
+* 🎓 **MSc** in Computer Vision from Universidade Federal do Amazonas *(2021 - 2024)*
+* 🎓 **PhD Candidate** in Computer Vision at UFAM *(2024 - Present)*
+* 📍 Based in Manaus, Amazonas, Brazil 🇧🇷
+* 📊 Experienced in time series & financial data processing at **BTG Pactual**
+* 🛰️ Contributed to an **AI drone system** detecting waste in **Amazon Rivers** 🌿♻️
 
 ---
 
-### GitHub Stats
+### ⚙️ Skills
 
-Here are some of my GitHub statistics. These badges automatically update!
+Here’s a snapshot of my technical toolkit 🧰:
 
-![Luiz Alencar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizAlencar17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlencar17&layout=compact&theme=radical)
+* 💬 **Languages**: Python 🐍 (NumPy, Scikit-learn, TensorFlow, Keras, Pandas, Boto3, OpenCV), JavaScript ✨, HTML/CSS 🌐, C# 🎮
+* ☁️ **Cloud**: AWS (DynamoDB, SQS, SNS, Lambda, S3, CloudWatch, AppSync, API Gateway, CloudFormation), Huawei Cloud
+* 🤖 **ML**: Classification, Regression, Clustering, Recommendation, Computer Vision 👁️
+* 🛠️ **Tools**: Git, Jenkins, Node.js, Vue, WordPress, Unity, SQL, PHP, REST APIs
+* 🔄 **Methodologies**: Agile
+* 🧠 **Data**: Strong grasp of data structures 📊
 
 ---
 
-### Contact Me
+### 📈 GitHub Stats
 
-Feel free to connect or reach out!
+Here are some of my GitHub statistics. These badges automatically update! 🎯
 
-* **Email**: fabio.alencar644@gmail.com
-* **LinkedIn**: [www.linkedin.com/in/luiz-fabio](https://www.linkedin.com/in/luiz-fabio) or [https://www.linkedin.com/in/luiz-alencar-641b62198/](https://www.linkedin.com/in/luiz-alencar-641b62198/)
-* **Instagram**: [@luizfabio__](https://www.instagram.com/luizfabio__)
+![Luiz Alencar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizAlencar17\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlencar17\&layout=compact\&theme=radical)
+
+---
+
+### 📬 Contact Me
+
+Feel free to connect or reach out! 💌
+
+* 📧 **Email**: [fabio.alencar644@gmail.com](mailto:fabio.alencar644@gmail.com)
+* 💼 **LinkedIn**: [www.linkedin.com/in/luiz-fabio](https://www.linkedin.com/in/luiz-fabio)
+* 📸 **Instagram**: [@luizfabio\_\_](https://www.instagram.com/luizfabio__)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-alencar-641b62198/" target="_blank">
@@ -58,6 +60,6 @@ Feel free to connect or reach out!
 
 ---
 
-### Let's go!!
+### 💥 Let's go!!
 
 <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" width="230" height="230" alt="Typing Cat GIF"/>
