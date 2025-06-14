@@ -31,7 +31,7 @@ Email: fabio.alencar644@gmail.com
 <a href="https://www.linkedin.com/in/luiz-alencar-641b62198/" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/lluizfab/?hl=pt-br](https://www.instagram.com/luizfabio__/" target="_blank" >
+<a href="https://www.instagram.com/luizfabio__" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
