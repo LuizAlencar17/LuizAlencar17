@@ -19,7 +19,7 @@ I'm a Deep Learning Enthusiast 💡, always eager to learn 📚 and grow 🚀! L
 * 📊 Experienced in time series & financial data processing at **BTG Pactual**
 * 🛰️ Contributed to an **AI drone system** detecting waste in **Amazon Rivers** 🌿♻️
 
-<img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" height="230" alt="Typing Cat GIF"/>
+<img src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif" height="230" alt="Typing Cat GIF"/>
 ---
 
 ### ⚙️ Skills
