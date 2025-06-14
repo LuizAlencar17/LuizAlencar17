@@ -6,6 +6,8 @@ I'm recognized for my adeptness in constructing **data processing pipelines** �
 Currently, I'm a 🧑‍🎓 **PhD student at UFAM**, holding a 🧑‍🔬 **Master's in Computing** and a 🎓 **degree in Computing from UEA**.
 I'm a Deep Learning Enthusiast 💡, always eager to learn 📚 and grow 🚀! Let's goooo together! 💥
 
+<img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" width="230" height="230" alt="Typing Cat GIF"/>
+
 ---
 
 ### 🔍 About Me
@@ -17,6 +19,7 @@ I'm a Deep Learning Enthusiast 💡, always eager to learn 📚 and grow 🚀! L
 * 📊 Experienced in time series & financial data processing at **BTG Pactual**
 * 🛰️ Contributed to an **AI drone system** detecting waste in **Amazon Rivers** 🌿♻️
 
+<img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" height="230" alt="Typing Cat GIF"/>
 ---
 
 ### ⚙️ Skills
@@ -62,4 +65,3 @@ Feel free to connect or reach out! 💌
 
 ### 💥 Let's go!!
 
-<img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" width="230" height="230" alt="Typing Cat GIF"/>
