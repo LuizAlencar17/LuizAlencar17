@@ -33,7 +33,7 @@ Here’s a snapshot of my technical toolkit 🧰:
 * 🔄 **Methodologies**: Agile
 * 🧠 **Data**: Strong grasp of data structures 📊
 
-<img src="https://pa1.aminoapps.com/6314/5937f3c21bf0dad49e26b8c837bda57cf35aebe0_00.gif" height="230" alt="Typing Cat GIF"/>
+<img src="https://i.makeagif.com/media/7-06-2017/8zzJgA.gif" height="230" alt="Typing Cat GIF"/>
 ---
 
 ### 📈 GitHub Stats
